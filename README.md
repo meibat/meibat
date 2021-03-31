@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá! Me chamo Melissa de Freitas Santos, sou estudante da FATEC Mauá e curso Informática para Negócios, não possuo experiência na área tecnológica, porém gostaria de uma oportunidade de aprendizagem em forma de estágio.
 
-<!--
-**melissa-mfs/melissa-mfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conhecimentos:
+ - Python
+ - Pacote Office
+ - Canva
 
-Here are some ideas to get you started:
+ ## Algumas informações interessantes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/melissa-de-freitas-santos-154b34149/)
+
+[melissa.mf29@gmail.com](melissa.mf29@gmail.com)
+
+[melissa.santos10@fatec.sp.gov.br](melissa.santos10@fatec.sp.gov.br)
+
+## Aguardo a sua avaliação, e me coloco a disposição para conversarmos!
