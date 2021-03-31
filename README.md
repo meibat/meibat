@@ -11,4 +11,4 @@
 [✉️ Principal](melissa.mf29@gmail.com)
 [📪 Escolar](melissa.santos10@fatec.sp.gov.br)
 
-### **Aguardo a sua avaliação, e me coloco a disposição para conversarmos!**
+### **Aguardo a sua avaliação, e me coloco a disposição para conversarmos!🙂**
