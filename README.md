@@ -8,8 +8,7 @@
 ### **Algumas informações interessantes:**
 
 [🔗 Linkedin](https://www.linkedin.com/in/melissa-de-freitas-santos-154b34149/)
-[✉️ Principal](melissa.mf29@gmail.com)
-[📪 Escolar](melissa.santos10@fatec.sp.gov.br)
+[✉️ E-mail](melissa.mf29@gmail.com)
 
 ### **Aguardo a sua avaliação, e me coloco a disposição para conversarmos!👋🙂**
 :octocat:~see you
