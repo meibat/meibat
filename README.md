@@ -3,7 +3,6 @@
 ### **Conhecimentos:**
 🐍 - Python
 📦 - Pacote Office
-🎨 - Canva
 
 ### **Algumas informações interessantes:**
 
