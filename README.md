@@ -1,10 +1,9 @@
 <p align="center">
- HELLO! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<p>
-  
-<p align="center">
+ <a href="#">
+    <img align="center" width="300" src="mei.png" />
+  </a>
   <a href="#">
-    <img align="center" width="200" src="benvindo.png" />
+    <img align="center" width="500" src="bemvindo.png" />
   </a>
 </p>
 </br>
