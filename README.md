@@ -1,9 +1,10 @@
 <p align="center">
+ HELLO! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<p>
+  
+<p align="center">
   <a href="#">
-    <img align="center" width="300" src="mei.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="hi.gif" />
+    <img align="center" width="200" src="benvindo.png" />
   </a>
 </p>
 </br>
@@ -24,9 +25,7 @@
   </a>
 </p>
 
-## HELLO! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### Sobre:
+## SOBRE:
 
 - 👩‍💻 Estagiária de TI **Construtora Tenda**.
 - 👩‍🎓 Estudante de Informática para Negócios - FATEC.
