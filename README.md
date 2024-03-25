@@ -26,8 +26,8 @@
 
 ## SOBRE:
 
-- 👩‍💻 Estagiária de TI **Construtora Tenda**.
-- 👩‍🎓 Estudante de Informática para Negócios - FATEC.
+- 👩‍💻 Analista de Sistemas na **Construtora Tenda**.
+- 👩‍🎓 Formada em Informática para Negócios - FATEC.
 
 ## Redes Sociais: :iphone:
 
